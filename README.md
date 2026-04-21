@@ -1,13 +1,3 @@
-# multi-cloud-data-architecture-case-study
-Conceptual enterprise data architecture designed using TOGAF ADM, demonstrating a multi-cloud data platform for integration, governance, and analytics.
-
-
-# multi-cloud-data-architecture-case-study
-
-Conceptual enterprise data architecture designed using a lightweight TOGAF ADM approach, demonstrating a multi-cloud data platform for integration, governance, and analytics.
-
----
-
 # Multi-Cloud Data Architecture Case Study
 
 ## Overview
