@@ -33,3 +33,35 @@ The architecture follows a TOGAF ADM-inspired structure, covering:
 
 This is a conceptual use case.
 
+repo/
+│
+├── README.md
+│
+├── docs/
+│   ├── 01-vision.md
+│   ├── 02-architecture.md
+│   └── 03-roadmap.md
+│
+├── diagrams/
+│   ├── data-architecture.drawio
+│   ├── application-architecture.drawio
+│   └── technology-architecture.drawio
+│
+├── architecture/
+│   ├── data/
+│   │   ├── data-model.md
+│   │   └── data-flow.md
+│   │
+│   ├── application/
+│   │   └── application-landscape.md
+│   │
+│   ├── technology/
+│   │   └── platform-design.md
+│   │
+│   └── governance/
+│       ├── catalog.md
+│       └── access-control.md
+│
+└── artifacts/
+    ├── system-matrix.xlsx
+    └── data-catalog.xlsx
