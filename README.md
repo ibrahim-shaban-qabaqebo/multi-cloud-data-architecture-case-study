@@ -28,6 +28,8 @@ The architecture follows a TOGAF ADM-inspired structure, covering:
 * Architecture documents (vision, definition, roadmap)
 * Architecture diagrams (data, application, technology)
 * Supporting artifacts (models, catalogs, matrices)
+* Business architecture baseline and target state documentation
+* Capability map artifact with interview-ready visual views
 
 ## Notes
 
