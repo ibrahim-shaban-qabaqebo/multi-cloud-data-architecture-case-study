@@ -97,11 +97,11 @@ The target architecture will establish a multi-cloud data platform based on doma
 
 The proposed solution is a multi-cloud enterprise data architecture that combines domain-driven ownership with centralized governance and interoperability standards. It integrates Azure, AWS, SAP, and Palantir into a shared architecture that supports scalable data products, digital applications, analytics, and AI workloads while reducing duplication, cost, and operational inefficiency.
 
-## Stakeholders (Lightweight)
+## Stakeholders
 
-- Executive sponsors and transformation leadership
+- Executive managers and transformation leadership
 - Domain business owners (Supply Chain, HR, Administration, Programme, Finance)
 - Data platform and integration teams
 - Governance, risk, and security stakeholders
 - Analytics, BI, and application delivery teams
-- End users and decision-makers consuming data products
+- field users, End users and decision-makers consuming data products
